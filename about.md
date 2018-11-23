@@ -17,7 +17,7 @@ of the possible, we seek input from craftspeople who strive to own the means
 of their intellectual labor, using tools and platforms free---to the utmost
 extent possible---from extractive and exploitative practices. Foundational
 toolkits are often shared among multiple workshops. All material in this
-category is reviewed by at least two of our moderators and indicated as such
+category is reviewed by at least two of our editors and indicated as such
 (we don't have this implemented yet).
 
 *Sparks* are the integral atomic units---think of them as individual lessons
