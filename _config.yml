@@ -6,8 +6,8 @@ collections:
 collections_dir: collections
 
 defaults:
-    scope:
-    path: ""
-    type: "workshop"
+  - scope:
+      path: ""
+      type: "workshop"
     values:
-    layout: workshop
+      layout: workshop

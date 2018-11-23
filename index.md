@@ -1,6 +1,6 @@
 ---
 layout: index
-title: streams
+title: workshops
 ---
 
 {% include mission.md %}
