@@ -1,7 +1,6 @@
 ---
 layout: stream
 title: amateur-librarian
-category: stream
 moderators:
 - Marcell Mars
 - Tomislav Medak

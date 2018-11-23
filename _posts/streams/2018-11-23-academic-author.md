@@ -1,7 +1,6 @@
 ---
 layout: stream
 title: academic-author
-category: stream
 moderators: Moacir P. de Sá Pereira
 ---
 

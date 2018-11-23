@@ -1,7 +1,6 @@
 ---
 layout: stream
 title: textual-scholar
-category: stream
 moderators: Dennis Yi Tenen
 ---
 
