@@ -1,9 +1,8 @@
 ---
-tag: amateur-library
-title: Amateur Library
+tag: film-scholarship
+title: Film Scholarship
 editors:
-    - Marcell Mars
-    - Tomislav Medak
+  - "Joshua Neeves"
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
@@ -18,4 +17,3 @@ nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex
 ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea
 voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem
 eum fugiat quo voluptas nulla pariatur?
-

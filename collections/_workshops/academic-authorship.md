@@ -1,8 +1,9 @@
 ---
 tag: academic-authorship
 title: Academic Authorship
-moderators:
+editors:
   - "Moacir P. de Sá Pereira"
+  - "Dennis Yi Tenen"
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

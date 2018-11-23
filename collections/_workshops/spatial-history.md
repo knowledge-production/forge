@@ -1,7 +1,7 @@
 ---
 tag: spatial-history
 title: Spatial History
-moderators:
+editors:
   - "Manan Ahmed"
 ---
 

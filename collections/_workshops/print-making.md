@@ -1,7 +1,7 @@
 ---
 tag: print-making
 title: Print Making
-moderators:
+editors:
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
