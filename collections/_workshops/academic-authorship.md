@@ -1,9 +1,8 @@
 ---
-tag: amateur-librarian
-title: Amateur Librarian
+tag: academic-authorship
+title: Academic Authorship
 moderators:
-    - Marcell Mars
-    - Tomislav Medak
+  - "Moacir P. de Sá Pereira"
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
@@ -19,3 +18,7 @@ ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea
 voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem
 eum fugiat quo voluptas nulla pariatur?
 
+- [OS & command line](https://github.com/dh-notes/dhnotes/tree/master/tutorials/command-line)\*
+- [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (Markdown + Pandoc)\*
+- [Version control](https://github.com/xpmethod/dhnotes/wiki/GitHub) (Git + GitHub)\*
+- Notes and Bibliography
