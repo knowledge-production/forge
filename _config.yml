@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+collections:
+    streams:
+        output: true
+
+collections_dir: collections
+
+defaults:
+    scope:
+    path: ""
+    type: "stream"
+    values:
+    layout: stream

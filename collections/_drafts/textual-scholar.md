@@ -1,7 +1,8 @@
 ---
-layout: stream
-title: academic-author
-moderators: Moacir P. de Sá Pereira
+stream: textual-scholar
+title: Textual Scholar
+moderators: 
+    - Dennis Yi Tenen
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
@@ -21,3 +22,6 @@ eum fugiat quo voluptas nulla pariatur?
 - [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (Markdown + Pandoc)\*
 - [Version control](https://github.com/xpmethod/dhnotes/wiki/GitHub) (Git + GitHub)\*
 - Notes and Bibliography
+- Python for Textual Analysis
+- Topic Modeling
+- Literary Visualization

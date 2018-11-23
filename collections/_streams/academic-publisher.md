@@ -1,6 +1,6 @@
 ---
-layout: stream
-title: academic-publisher
+title: Academic Publisher
+stream: academic-publisher
 category: stream
 moderators:
 ---
