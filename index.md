@@ -12,7 +12,7 @@ title: streams
 {% for workshop in site.workshops %}
 
     <li class="small-caps">
-        <a href="{{site.baseurl}}{{workshop.tag}}">
+        <a href="{{site.baseurl}}/workshops/{{workshop.tag}}">
             {{workshop.title}}
         </a>
     </li>
