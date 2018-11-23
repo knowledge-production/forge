@@ -5,15 +5,15 @@ title: streams
 
 {% include mission.md %}
 
-<div class="">Select your stream: </div>
+<div class="">Select your workshop: </div>
 
 <ul class="list pl4">
 
-{% for stream in site.streams %}
+{% for workshop in site.workshops %}
 
     <li class="small-caps">
-        <a href="{{site.baseurl}}{{stream.stream}}">
-        {{stream.title}}
+        <a href="{{site.baseurl}}{{workshop.tag}}">
+            {{workshop.title}}
         </a>
     </li>
 

@@ -5,29 +5,29 @@ title: about
 
 {% include mission.md %}
 
-*Streams* signify our domain-specific workshops---syllabi and curricula---that
-advance from the beginning practitioner to the intermediate and the advanced.
-Some examples of curricular streams include Amateur Librarian, Academic
-Author, Media Archaeologist, and Textual Scholar. Streams are curated by
-moderators, responsible for coverage and quality of material.
+*Workshops* are role-based curricula that advance a beginning practitioner to
+the intermediate and the expert levels of craft. Some examples of our
+workshops include Amateur Librarian, Academic Author, Media Archaeologist, and
+Textual Scholar. These are curated by moderators, responsible for coverage and
+quality of material.
 
-*Springs* are the modular, domain-independent skill-sets and
-tool-sets---lesson plans and tutorials---necessary for contemporary knowledge
-work. In the realm of the possible, we seek input from craftspeople who strive
-to own the means of their intellectual labor, using tools and platforms
-free---to the utmost extent possible---from extractive and exploitative
-practices. Foundational springs are often shared among multiple streams. All
-material in this category is reviewed by at least two of our moderators and
-indicated as such.
+*Toolkits* are the modular, domain-independent skillsets---individual lesson
+plans and tutorials---necessary for contemporary knowledge work. In the realm
+of the possible, we seek input from craftspeople who strive to own the means
+of their intellectual labor, using tools and platforms free---to the utmost
+extent possible---from extractive and exploitative practices. Foundational
+toolkits are often shared among multiple workshops. All material in this
+category is reviewed by at least two of our moderators and indicated as such
+(we don't have this implemented yet).
 
-*Droplets* are the integral atomic units---think of them as individual lessons
-in a lesson plan---that make up our springs. Individual droplets do not
+*Sparks* are the integral atomic units---think of them as individual lessons
+in a lesson plan---that make up our toolkits. Individual sparks do not
 necessarily make sense on their own: they are usually collated into larger
-groupings. We welcome and credit all pull requests from the broader community:
-if you fix an error, want to translate or contribute to any existing material
-please do not hesitate to get in touch.
+groupings.
 
-Guidelines for contributors can be found here.
+We welcome and credit all pull requests from the broader community: if you fix
+an error, want to translate or contribute to any existing material please do
+not hesitate to get in touch. Guidelines for contributors can be found here.
 
 The Forge was founded with support from several sister communities including
 Global Emergent Media Lab at Concordia University, Columbia University's

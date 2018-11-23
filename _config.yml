@@ -1,12 +1,13 @@
 collections:
-    streams:
+    workshops:
         output: true
+
 
 collections_dir: collections
 
 defaults:
     scope:
     path: ""
-    type: "stream"
+    type: "workshop"
     values:
-    layout: stream
+    layout: workshop
