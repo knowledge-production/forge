@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>xpmethod | Group for experimental methods in the humanities</title>
+   <meta name="author" content="xpMethods" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="{{ site.baseurl}}/public/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="{{ site.baseurl}}/public/css/tachyons.min.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="{{ site.baseurl}}/public/css/global.css" type="text/css" media="screen, projection" />
+   <link rel="shortcut icon" href="{{ site.baseurl}}/public/favicon.ico?v=1"/> 
+
+   <!-- custom Modernizr build for font compatibility -->
+   <script type='text/javascript' src='{{ site.baseurl }}/public/js/modernizr-custom.js'></script>
+</head>
+
+<body class="center f4 fw1 mw9 mw7-ns normal ph4-ns">
+    <main class="fl w-100">
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
+    </main>
+
+<!-- Github buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+</body>
+</html>
