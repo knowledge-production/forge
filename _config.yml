@@ -4,6 +4,7 @@ collections:
 
 
 collections_dir: collections
+baseurl: /forge
 
 defaults:
   - scope:

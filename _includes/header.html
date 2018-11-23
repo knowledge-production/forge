@@ -14,7 +14,7 @@
             {% elsif page.path contains 'projects' and  node.title == 'projects' %} active
             {% elsif page.url == '/' and node.title == 'projects' %} active
             {% endif %}" 
-            href="{{ node.url }}">
+               href="{{site.baseurl}}{{ node.url }}">
                 {{ node.title }}
             </a>
     {% endunless %}
