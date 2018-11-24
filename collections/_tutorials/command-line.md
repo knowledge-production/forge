@@ -10,6 +10,8 @@ published: true
 image:
 ---
 
+In this tutorial we will learn XYZ.
+
 ## Why command line?
 
 - core skill
@@ -20,9 +22,9 @@ image:
 - hackable
 - fun
 
-**integrate the command line into your daily routine to manipulate files and
+Integrate the command line into your daily routine to manipulate files and
 folders, to launch applications, and for simple system-related scripting as an
-advanced replacement for your finder (file explorer) and spotlight**
+advanced replacement for your finder (file explorer) and spotlight.
 
 ## Shell
 
@@ -58,26 +60,6 @@ Handbook: The Best of UNIX-Haters On-Line Mailing Reveals Why UNIX Must
 Die!](http://www.csf.ac.at/fileadmin/user_upload/BioComp/training/unix_haters_handbook.pdf).
 Edited by Daniel Weise, Simson Garfinkel, and Steven Strassmann. San Mateo, CA:
 IDG Books Worldwide, 1994, 161.</sup>
-
-## Table of contents
-
-- [Unit 0: Conversing in plain text](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/100-plain-text.md)
-- [Unit 1: Finding your way](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/101-gps.md)
-- [Unit 2: Files and folders](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/102-files.md)
-- [Unit 3: Permissions](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/103-permissions.md)
-- [Unit 4: Pipes and redirects](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/104-pipes.md)
-- [Unit 5: Search](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/105-search.md)
-- [Unit 6: Filters](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/106-filters.md)
-- [Unit 7: Networking](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/107-network.md)
-- [Unit 8: Moving Data](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/116-moving-data.md)
-- [Unit 9: Users and Groups](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/108-users.md)
-- [Unit 10: Messaging](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/113-message.md)
-- [Unit 11: Multiplexing](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/114-multiplex.md)
-- [Unit 12: Text Manipulation](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/109-text.md)
-- [Unit 13: Scripting](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/110-script.md)
-- [Unit 14: Scheduling](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/111-schedule.md)
-- [Unit 15: Package management](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/112-package.md)
-- [Unit 16: Debugging](https://github.com/denten/dhnotes/blob/master/tutorials/command-line/115-debug.md)
 
 ## Resources
 
