@@ -1,6 +1,7 @@
 ---
 tag: academic-authorship
 title: Academic Authorship
+layout: workshop
 editors:
   - "Moacir P. de Sá Pereira"
   - "Dennis Yi Tenen"

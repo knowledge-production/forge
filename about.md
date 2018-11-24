@@ -1,29 +1,26 @@
 ---
-layout: default
+layout: about
 title: about
 ---
 
-{% include mission.md %}
+In the realm of the possible, we seek input from craftspeople who strive to
+own the means of their intellectual labor, using tools and platforms free--to
+the utmost extent possible--from extractive and exploitative practices. 
 
-*Workshops* are role-based curricula that advance a beginning practitioner to
-the intermediate and the expert levels of craft. Some examples of our
-workshops include Amateur Librarian, Academic Author, Media Archaeologist, and
-Textual Scholar. These are curated by moderators, responsible for coverage and
-quality of material.
+*Workshops* are domain-specific curricula that advance a beginning
+practitioner to the intermediate and the expert levels of craft. Some examples
+of our workshops include Amateur Librarian, Academic Author, Media
+Archaeologist, and Textual Scholar. These are curated by moderators,
+responsible for coverage and quality of material.
 
-*Toolkits* are the modular, domain-independent skillsets---individual lesson
-plans and tutorials---necessary for contemporary knowledge work. In the realm
-of the possible, we seek input from craftspeople who strive to own the means
-of their intellectual labor, using tools and platforms free---to the utmost
-extent possible---from extractive and exploitative practices. Foundational
-toolkits are often shared among multiple workshops. All material in this
-category is reviewed by at least two of our editors and indicated as such
-(we don't have this implemented yet).
+*Tutorials* represent modular, domain-independent lesson plans necessary for
+contemporary knowledge work. Foundational tutorial are often shared among
+multiple workshops. All material in this category is reviewed by at least two
+of our editors and indicated as such (we don't have this implemented yet).
 
-*Sparks* are the integral atomic units---think of them as individual lessons
-in a lesson plan---that make up our toolkits. Individual sparks do not
-necessarily make sense on their own: they are usually collated into larger
-groupings.
+*Lessons* are integral, atomic lessons that make up our tutorials. Individual
+lessons do not necessarily make sense on their own: they are usually collated
+into larger groupings.
 
 We welcome and credit all pull requests from the broader community: if you fix
 an error, want to translate or contribute to any existing material please do

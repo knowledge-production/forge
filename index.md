@@ -1,22 +1,8 @@
 ---
 layout: index
-title: workshops
+title: home
 ---
 
-{% include mission.md %}
-
-<div class="">Select your workshop: </div>
-
-<ul class="list pl4">
-
-{% for workshop in site.workshops %}
-
-    <li class="small-caps">
-        <a href="{{site.baseurl}}/workshops/{{workshop.tag}}">
-            {{workshop.title}}
-        </a>
-    </li>
-
-{% endfor %}
-
-</ul>
+*The Forge* is an open community-reviewed publication platform dedicated to
+the advancement of public knowledge based on the skills, tools, and workflows
+that are firmly entrenched in the public domain.

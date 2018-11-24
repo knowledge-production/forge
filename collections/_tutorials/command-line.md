@@ -1,9 +1,8 @@
 ---
-layout: spring
+layout: tutorial
 title: Command Line
-streams: [textual-scholar, academic-author, amateur-librarian]
-author:
- - Moacir
+workshop: [textual-scholar, academic-author, amateur-librarian]
+authors:
  - Dennis Yi Tenen
 category:
 published: true

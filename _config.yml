@@ -1,14 +1,10 @@
 collections:
     workshops:
         output: true
-
+    tutorials:
+        output: true
+    lessons:
+        output: true
 
 collections_dir: collections
 baseurl: /forge
-
-defaults:
-  - scope:
-      path: ""
-      type: "workshop"
-    values:
-      layout: workshop
