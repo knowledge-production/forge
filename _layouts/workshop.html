@@ -1,22 +1,13 @@
 ---
 layout: default
-title: workshop
 ---
+
+<span class="code gray">{{ page.collection }}</span> ⚒
+<span class="b"> {{ page.title }} </span>
+
+<div class="f5">
+    {{ page.curators | array_to_sentence_string }} 
+</div>
 
 {{ content }}
 
-
-<div class="fl w-100 pa2">
-    Tutorials:
-
-    <ul class="list pl4">
-        {% for tutorial in site.tutorials %}
-            <li class="small-caps">
-                <a href="{{site.baseurl}}/workshops/{{workshop.tag}}">
-                    {{workshop.title}}
-                </a>
-            </li>
-        {% endfor %}
-    </ul>
-
-</div>

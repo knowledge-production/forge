@@ -10,7 +10,7 @@ layout: default
     <ul class="list pl4">
         {% for workshop in site.workshops %}
             <li class="small-caps">
-                <a href="{{site.baseurl}}/workshops/{{workshop.tag}}">
+                <a href="{{site.baseurl}}{{workshop.url}}">
                     {{workshop.title}}
                 </a>
             </li>
