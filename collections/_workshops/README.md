@@ -1,8 +1,7 @@
-Compose workshops by adding tutorial URLs like so:
+Compose workshops by unique tutorial URLs in the YAML header:
 
 ```
-- [Command Line 1]({{ site.baseurl }}/tutorials/command-line.html)
-- [Command Line 2]({{ site.baseurl }}/tutorials/command-line.html)
+tutorials:
+  - command-line
+  - pandoc
 ```
-
-The template will pull in `title` and `curators` tag.

@@ -11,3 +11,11 @@ layout: default
 
 {{ content }}
 
+<ul>
+    {% for tutorial in page.tutorials %}
+        {% assign target = site.tutorials | where:"tutorial-id", tutorial | first %}
+
+            <li><a href="{{site.baseurl}}{{target.url}}">{{target.title}}</a></li>
+
+    {% endfor %}
+</ul>

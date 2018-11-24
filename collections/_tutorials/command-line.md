@@ -1,12 +1,9 @@
 ---
 layout: tutorial
-tag: command-line
+tutorial-id: command-line
 title: Command Line
-workshop: [academic-author, amateur-library]
 authors:
  - Dennis Yi Tenen
-category:
-published: true
 image:
 ---
 
