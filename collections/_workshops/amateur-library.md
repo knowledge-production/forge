@@ -1,7 +1,7 @@
 ---
 tag: amateur-library
 title: Amateur Library
-editors:
+curators:
     - Marcell Mars
     - Tomislav Medak
 ---

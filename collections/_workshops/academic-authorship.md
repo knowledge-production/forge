@@ -1,9 +1,8 @@
 ---
-tag: academic-authorship
+tag: academic-author
 title: Academic Authorship
 layout: workshop
-editors:
-  - "Moacir P. de Sá Pereira"
+curators:
   - "Dennis Yi Tenen"
 ---
 
@@ -19,8 +18,3 @@ nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex
 ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea
 voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem
 eum fugiat quo voluptas nulla pariatur?
-
-- [OS & command line](https://github.com/dh-notes/dhnotes/tree/master/tutorials/command-line)\*
-- [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (Markdown + Pandoc)\*
-- [Version control](https://github.com/xpmethod/dhnotes/wiki/GitHub) (Git + GitHub)\*
-- Notes and Bibliography

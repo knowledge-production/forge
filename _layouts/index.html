@@ -23,10 +23,10 @@ layout: default
     Tutorials:
 
     <ul class="list pl4">
-        {% for toolkit in site.toolkits%}
+        {% for tutorial in site.tutorials%}
             <li class="small-caps">
-                <a href="{{site.baseurl}}/toolkits/{{toolkit.tag}}">
-                    {{workshop.title}}
+                <a href="{{site.baseurl}}/tutorials/{{tutorial.tag}}">
+                    {{tutorial.title}}
                 </a>
             </li>
         {% endfor %}
