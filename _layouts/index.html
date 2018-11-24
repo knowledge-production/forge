@@ -25,7 +25,7 @@ layout: default
     <ul class="list pl4">
         {% for tutorial in site.tutorials%}
             <li class="small-caps">
-                <a href="{{site.baseurl}}/tutorials/{{tutorial.tag}}">
+                <a href="{{site.baseurl}}{{tutorial.url}}">
                     {{tutorial.title}}
                 </a>
             </li>
