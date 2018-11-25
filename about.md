@@ -18,9 +18,9 @@ contemporary knowledge work. Foundational tutorial are often shared among
 multiple workshops. All material in this category is reviewed by at least two
 of our editors and indicated as such (we don't have this implemented yet).
 
-*Lessons* are integral, atomic lessons that make up our tutorials. Individual
-lessons do not necessarily make sense on their own: they are usually collated
-into larger groupings.
+*Lessons* are integral, atomic components that make up our tutorials.
+Individual lessons do not necessarily make sense on their own: they are
+usually collated into larger groupings.
 
 We welcome and credit all pull requests from the broader community: if you fix
 an error, want to translate or contribute to any existing material please do

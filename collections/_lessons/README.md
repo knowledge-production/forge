@@ -15,3 +15,6 @@ lessons/
     ├── 04-ocr.md
     └── 05-server-configuration.md
 ```
+
+Use the unique `target-tutorial:` YAML key to specify the destination
+tutorial. Lessons can only end up in one tutorial.

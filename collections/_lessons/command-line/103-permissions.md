@@ -1,9 +1,7 @@
 ---
-tutorial: "Command Line Fundamentals"
-section: "Unit 3: Permissions"
-author: Dennis Tenen
-update: "5/29/15"
-
+target-tutorial: command-line
+title: "Unit 3: Permissions"
+authors: Dennis Tenen
 ---
 
 ## Unit 3: Permissions

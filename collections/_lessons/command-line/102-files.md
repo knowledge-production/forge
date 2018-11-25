@@ -1,3 +1,10 @@
+---
+layout: lesson
+lesson-id: command-line-001
+title: "Unit 1: Conversing in Plain Text"
+authors: Dennis Yi Tenen
+---
+
 # Files, Paths, & Folders
 
 ![Anatomy of a UNIX Command.](http://sc.tamu.edu/help/general/unix/cmd-anatomy.jpg)

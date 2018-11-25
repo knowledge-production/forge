@@ -1,4 +1,4 @@
-Compose workshops by unique tutorial URLs in the YAML header:
+Compose workshops by unique tutorial IDs in the YAML header:
 
 ```
 tutorials:
