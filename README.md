@@ -4,12 +4,11 @@
 |------------|-----------------------|--------------------------------|----------|
 | layout     | categorical           | workshop \| tutorial \| lesson | all      |
 | title      | arbitrary text        |                                | all      |
-| workshop   | avail. workshop title |                                | toolkit  |
-| tutorial   | avail. toolkit title  |                                | lesson   |
-| author     | name                  |                                | lesson   |
-| editor     | name                  |                                | workshop |
 | published  | boolean               | true \| false                  | all      |
 | image      | posix filename        | in public/images/              | all      |
+| status     | categorical           | in-development \| stable       | all      |
+| tutorial   | avail. toolkit title  |                                | lesson   |
+| author     | name                  |                                | lesson   |
 | difficulty | categorical           | intro \| med \| adv            | lesson   |
-| status     | categorical           | in progress \|                 | lesson   |
-|            |                       | under review \| published      |          |
+| workshop   | avail. workshop title |                                | toolkit  |
+| editor     | name                  |                                | workshop |
