@@ -1,3 +1,11 @@
+# title:
+# description:
+# url:
+# logo:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 collections:
     workshops:
         output: true
@@ -8,3 +16,18 @@ collections:
 
 collections_dir: collections
 baseurl: /forge
+markdown: kramdown
+# google-code:
+kramdown:
+  input: GFM
+  auto_id_prefix: s-
+  parse_block_html: true
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+      start_line: 1
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
