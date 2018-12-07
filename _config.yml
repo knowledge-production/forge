@@ -1,3 +1,7 @@
+markdown: kramdown
+kramdown:
+  footnote_backlink: '&#x21A9;&#xFE0E;'
+
 collections:
     workshops:
         output: true
