@@ -4,10 +4,12 @@ layout: default
 
 {{ content }}
 
-<div class="fl w-third">
-    Workshops:
+<article class="cf">
+<div class="cf fl flex pa3 w-third flex-column mr2">
 
-    <ul class="list pl4">
+    <div class="b bb">Workshops</div>
+
+    <ul class="list pl0">
         {% for workshop in site.workshops %}
             <li class="small-caps">
                 <a href="{{site.baseurl}}{{workshop.url}}">
@@ -19,10 +21,11 @@ layout: default
 
 </div>
 
-<div class="fl w-two-thirds pl4">
-    Tutorials:
+<div class="fl pa3 w-60">
 
-    <ul class="list pl4">
+    <div class="b bb">Tutorials</div>
+
+    <ul class="list pl0">
         {% for tutorial in site.tutorials%}
             <li class="small-caps">
                 <a href="{{site.baseurl}}{{tutorial.url}}">
@@ -31,4 +34,6 @@ layout: default
             </li>
         {% endfor %}
     </ul>
+
 </div>
+</article>
