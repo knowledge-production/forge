@@ -20,6 +20,7 @@ markdown: kramdown
 # google-code:
 kramdown:
   input: GFM
+  footnote_backlink: '&#x21A9;&#xFE0E;'
   auto_id_prefix: s-
   parse_block_html: true
   syntax_highlighter: rouge
