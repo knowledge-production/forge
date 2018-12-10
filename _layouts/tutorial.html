@@ -9,8 +9,8 @@ layout: default
     {{ page.authors| array_to_sentence_string }} 
 </div>
 
-<div class="ba b--dotted b--light-silver bg-washed-blue pa3 mb2 ">
-    {{ page.blurb }}
+<div class="ba b--dotted b--light-silver bg-washed-blue ph4 mb2 ">
+    {{ content }}
 </div>
 
 <div class="ba b--dotted b--light-silver bg-washed-yellow pa3">
@@ -22,6 +22,3 @@ layout: default
     {% endfor %}
 </ul>
 </div>
-
-{{ content }}
-
