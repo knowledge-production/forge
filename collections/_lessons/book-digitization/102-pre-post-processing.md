@@ -1,7 +1,7 @@
 ---
 layout: lesson
 target-tutorial: book-digitization
-title: "Unit 3: Post-Processing"
+title: "Unit 3: Post-processing"
 authors: Tomislav Medak, Dubravka Sekulić, An Mertens
 ---
 
@@ -37,7 +37,7 @@ Getting the image files ready for post-processing on the MOTW scanner
 
 In the case of MOTW scanner, a custom C++ script was written by Mislav Stublić to facilitate the transfer, renaming, rotating and collating of the images from the two cameras.
 
-The script prompts the user to place into a card reader connected to the computer first the memory card from the right camera, provides a preview of the first and last four images and provides an entry field to create a sub-folder in a local cloud storage folder (path: /home/[username]/Copy). It transfers, renames, rotates the files, deletes them from the card and prompts the user to replace the card with the one from the left camera in order to the transfer the files that card and place them in the same folder. The script was created for GNU/Linux system and it can be downloaded, together with its source code, from [here](/public/files/scanflow_script-source_and_binary.zip).
+The script prompts the user to place into a card reader connected to the computer first the memory card from the right camera, provides a preview of the first and last four images and provides an entry field to create a sub-folder in a local cloud storage folder (path: /home/[username]/Copy). It transfers, renames, rotates the files, deletes them from the card and prompts the user to replace the card with the one from the left camera in order to the transfer the files that card and place them in the same folder. The script was created for GNU/Linux system and it can be downloaded, together with its source code, from [here](/forge/public/files/scanflow_script-source_and_binary.zip).
 
 If you have other cameras than Canon, you can edit the line 387 of the source file to change to the naming convention of your cameras, and recompile by running the following command in your terminal: "gcc scanflow_en.c -o scanflow_en -ludev `pkg-config --cflags --libs gtk+-2.0`".
 
@@ -53,7 +53,7 @@ These tasks can be completed by a number of software applications. Our tutorial 
 
 Once you have transferred all the photos from cameras to the computer, renamed and rotated them, or captured them on a flatbed or a photocopier, they are ready to be processed in the ScanTailor.
 
-![ScanTailor Advanced](/public/images/book-digitization/ScanTailor_advanced.png)
+![ScanTailor Advanced](/forge/public/images/book-digitization/ScanTailor_advanced.png)
 
 ### 1. Importing images to ScanTailor
 

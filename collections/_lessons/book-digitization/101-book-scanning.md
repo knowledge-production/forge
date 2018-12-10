@@ -1,7 +1,7 @@
 ---
 layout: lesson
 target-tutorial: book-digitization
-title: "Unit 2: Book Scanning"
+title: "Unit 2: Book scanning"
 authors: Tomislav Medak, Dubravka Sekulić, An Mertens
 ---
 
@@ -26,12 +26,12 @@ Place the cameras onto tripods. You need to move the lever on the tripod's head 
 If the automatic chargers for the camera are provided, open the battery lid on the bottom of the camera and plug the automatic charger. Close the lid.
 Switch on the cameras using the lever on the top right side of the camera's body and place it into the aperture priority (Av) mode on the mode dial above the lever (see Illustration 3). Use the main dial just above the shutter button on the front side of the camera to set the aperture value to F8.0.
 
-![Mode and main dial, focus mode switch, zoom and focus ring](/assets/img/book-digitization/camera_mode_and_dial.png)
+![Mode and main dial, focus mode switch, zoom and focus ring](/forge/public/images/book-digitization/camera_mode_and_dial.png)
 
 On the lens, turn the focus mode switch to manual (MF), turn the large zoom ring to set the value exactly midway between 24 and 35 mm (see Illustration 3). Focal length should be on both cameras set to same the value. Use dial on the ring and the live-view screen to ascertain that this is so.
 To focus each camera, open a book on the cradle, lower the Plexiglas plate by holding the big button on the controller, and turn on the live view on camera LCD by pressing the live view switch (see Illustration 4). Now press the magnification button twice and use the focus ring on the front of the lens to get a clear image view.
 
-![Live-view switch and the magnification button](/assets/img/book-digitization/camera_live-view.png)
+![Live-view switch and the magnification button](/forge/public/images/book-digitization/camera_live-view.png)
 
 ### d) Connecting the cameras
 
