@@ -11,3 +11,5 @@ collections:
         output: true
 
 collections_dir: collections
+
+baseurl: /forge

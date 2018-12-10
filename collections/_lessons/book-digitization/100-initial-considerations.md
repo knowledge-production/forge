@@ -106,7 +106,7 @@ Canon EF-S 18-55mm 1:3.5-5.6 IS. Cameras power adapters that can be cheaply
 obtained from the internet. These slide into cameras in lieu of a battery to
 provide a constant power supply.
 
-![Memory of the World scanner](/public/images/book-digitization/MOTW_scanner.png)
+![Memory of the World scanner](/forge/public/images/book-digitization/MOTW_scanner.png)
 
 The scanner operates by automatically lowering the Plexiglas plate, illuminating the page and then triggering camera shutters. The turning of pages and the adjustments of the V-shaped cradle holding the book are manual.
 The scanner is operated by a two-button controller (see Illustration 2). The upper, smaller button breaks the capture process in two steps: the first click lowers the Plexiglas plate, increases the light level and allows you to adjust the book or the cradle, the second click triggers the cameras and lifts the platen.
@@ -114,7 +114,7 @@ The scanner is operated by a two-button controller (see Illustration 2). The upp
 The lower button has two modes. A quick click will execute the whole capture process in one go. But if you hold it pressed longer, it will lower the platen, allowing you to adjust the book and the cradle, and lift it without triggering cameras when you press again.
 
 ![A two-button
-controller](/public/images/book-digitization/MOTW_scanner_controler.png)
+controller](/forge/public/images/book-digitization/MOTW_scanner_controler.png)
 
 ## 4. More on this tutorial: steps in the book scanning process
 
