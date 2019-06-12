@@ -29,5 +29,5 @@ not hesitate to get in touch. Guidelines for contributors can be found here.
 The Forge was founded with support from several sister communities including
 Global Emergent Media Lab at Concordia University, Columbia University's
 Studio at Butler Library, Price DH Lab at University of Pennsylvania, and
-Memory of the World Collective, Centre for Disruptive Media at Coventry
+Memory of the World Collective, Centre for Postdigital Cultures at Coventry
 University.
