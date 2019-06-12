@@ -1,5 +1,3 @@
-website: https://knowledge-production.github.io/forge/
-
 ## Site Taxonomy (YAML)
 
 | key        | type                  | value/s                        | scope    |
@@ -14,3 +12,7 @@ website: https://knowledge-production.github.io/forge/
 | difficulty | categorical           | intro \| med \| adv            | lesson   |
 | workshop   | avail. workshop title |                                | toolkit  |
 | editor     | name                  |                                | workshop |
+
+## Web site
+
+https://knowledge-production.github.io/forge/about.html
